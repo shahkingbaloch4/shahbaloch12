@@ -1,6 +1,6 @@
 # -*- coding: utf-8
 
-# author by SHAH DINO K8NG
+# author by SHAH DINO BALOCH
 
 import os
 
@@ -86,9 +86,9 @@ def logo():
 
 	print("""\x1b[0;32m╔════════════════════════════════════════════╗
 
-\x1b[0;33m║WELCOME TO MY TOOLS  [🔥 SHAH DINO KING 🔥].  ║
+\x1b[0;33m║WELCOME TO MY TOOLS  [🔥 SHAH DINO BALOCH🔥].  ║
 
-\x1b[0;33m║       #TOOL AUTHOR [SHAH DINO KING] MAFIA  BÃLÕCH. ║
+\x1b[0;33m║       #TOOL AUTHOR [SHAH DINO BALOCH] MAFIA BALOCH. ║
 
 \x1b[0;33m╚════════════════════════════════════════════╝
 
@@ -96,11 +96,11 @@ def logo():
 
 \x1b[0;33m╔════════════════════════════════════════════╗
 
-\x1b[0;33m║#YOUTUBE :  TRICKS DINO😐.  ║
+\x1b[0;33m║#YOUTUBE : DINO TRICKS😐.  ║
 
-\x1b[0;33m║#FACEBOOK : NAME [shahdinobaloch15 II ].       ║
+\x1b[0;33m║#FACEBOOK : NAME [SHAH DINO  II ].       ║
 
-\x1b[0;33m║#GITHUB : https://github.com/Shah Dino.   ║
+\x1b[0;33m║#GITHUB : https://github.com/SHAHKING.   ║
 
 \x1b[0;33m║#WHATSAPP : 03175889358.                   ║
 
@@ -204,25 +204,25 @@ def menu():
 
 		menu()
 
-	elif DINO == "1" or DINO == "01":
+	elif Subhan == "1" or SUBHAN == "01":
 
 		publik()
 
 		method()
 
-	elif Shah == "2" or Dino== "02":
+	elif Subhan == "2" or KHAN == "02":
 
 		follower()
 
 		method()
 
-	elif Shah == "3" or  Dino == "03":
+	elif Subhan == "3" or  SUBHAN == "03":
 
 		massal()
 
 		method()
 
-	elif Shah == "4" or Dino == "04":
+	elif Umair == "4" or SUBHAN == "04":
 
 		print("\n\033[1;92m[\033[1;93m01\033[1;96m] CHECK CRACK RESULTS OK")
 
@@ -432,7 +432,7 @@ def method():
 
 	print("\n\033[1;93m[\033[1;94m?\033[1;97m] CHOOSE CRACKING MATHORD")
 
-	print("\033[1;93m[\033[1;94m1\033[1;97m] B-API\033[1;97m [ \033[1;95mSHAHDINI PRO/FASTER \033[1;97m]")
+	print("\033[1;93m[\033[1;94m1\033[1;97m] B-API\033[1;97m [ \033[1;95mSHAHDINO PRO/FASTER \033[1;97m]")
 
 	print("\033[1;93m[\033[1;94m2\033[1;97m] MBASIC\033[1;93m [ \033[1;95mFAST \033[1;97m]")
 
